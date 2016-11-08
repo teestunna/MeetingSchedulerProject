@@ -1,0 +1,4 @@
+[submodule "libical"]
+	path = libical
+	url = https://github.com/libical/libical.git
+  	ignore = dirty
